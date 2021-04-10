@@ -1,10 +1,10 @@
-/
+/**
  * Kode vanilla javascript untuk menambahkan value
  * pada elemen html
  */
 document.getElementById('nama').innerHTML = 'Hasna';
 
-/
+/**
  * kode jquery untuk menmabhakan value
  * pada elemen html
  */
